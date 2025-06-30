@@ -17,6 +17,8 @@ This is a custom vcpkg registry for managing C++ packages and libraries.
 6. Commit and get git tree hash
 7. Update version file with actual git tree hash
 
+Ref [`AddPorts.md`](AddPorts.md) and [`Registries concepts`](https://learn.microsoft.com/en-us/vcpkg/concepts/registries) for detailed instructions.
+
 ## Using This Registry
 
 Add to your project's `vcpkg-configuration.json`:
