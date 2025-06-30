@@ -1,3 +1,8 @@
 {
-  "default": {}
+  "default": {
+    "crc32c": {
+      "baseline": "1.1.2",
+      "port-version": 0
+    }
+  }
 }
