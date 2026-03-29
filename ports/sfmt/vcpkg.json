@@ -1,7 +1,7 @@
 {
   "name": "sfmt",
   "version": "1.5.4",
-  "port-version": 1,
+  "port-version": 2,
   "description": "SIMD-oriented Fast Mersenne Twister (SFMT) pseudorandom number generator.",
   "homepage": "https://github.com/MersenneTwister-Lab/SFMT",
   "license": "BSD-3-Clause",

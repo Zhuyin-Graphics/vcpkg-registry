@@ -3,7 +3,7 @@ new file mode 100644
 index 0000000..969bc4d
 --- /dev/null
 +++ b/CMakeLists.txt
-@@ -0,0 +1,106 @@
+@@ -0,0 +1,116 @@
 +# CMake minimum version
 +cmake_minimum_required(VERSION 3.10)
 +
